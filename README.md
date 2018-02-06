@@ -1,1 +1,1 @@
-# angular-color-picker
+### Color Picker for Angular Apps
